@@ -1,5 +1,5 @@
 build:
-	gcc susfetch.c lib/playAudio.c -o sussusfetch -O3 -std=gnu17 -lmpg123 -lao
+	gcc susfetch.c lib/playAudio.c -o sussusfetch -O3 -std=gnu17 -lmpg123 -lao -Wall -Wextra
 
 install:
 	mkdir -p $${HOME}/.sussusfetch

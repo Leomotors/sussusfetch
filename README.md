@@ -2,6 +2,12 @@
 
 [susfetch](https://github.com/sleepntsheep/susfetch) but much more sus **with audio**
 
+## Prerequisites
+
+```bash
+sudo apt install libmpg123-dev libao-dev
+```
+
 ## Installation
 
 ```bash
