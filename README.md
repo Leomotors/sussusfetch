@@ -15,6 +15,8 @@ make
 make install
 ```
 
+**Note**: This app install to local user, do not use sudo
+
 ## susfetch readme content
 
 ![fetch](https://cdn.discordapp.com/attachments/962712229147471902/962946075893858354/unknown.png)
